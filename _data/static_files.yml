@@ -2173,6 +2173,16 @@
   - gif
   - good
   - ice
+- title: opening_issue_tutorial.gif
+  category: github
+  path: github/opening_issue_tutorial.gif
+  modified_time: 1604101744
+  tags:
+  - gif
+  - github
+  - issue
+  - opening
+  - tutorial
 - title: graphqldocs_demo.gif
   category: graphql
   path: graphql/graphqldocs_demo.gif
