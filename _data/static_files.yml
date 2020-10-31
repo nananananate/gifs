@@ -3774,6 +3774,26 @@
   - gif
   - omg
   - ooooo
+- title: open_garden_deploy_docs.gif
+  category: open-garden
+  path: open-garden/open_garden_deploy_docs.gif
+  modified_time: 1604181773
+  tags:
+  - deploy
+  - docs
+  - garden
+  - gif
+  - open
+- title: open_garden_docs_demo.gif
+  category: open-garden
+  path: open-garden/open_garden_docs_demo.gif
+  modified_time: 1604181779
+  tags:
+  - demo
+  - docs
+  - garden
+  - gif
+  - open
 - title: lincoln-boombox.gif
   category: party
   path: party/lincoln-boombox.gif
