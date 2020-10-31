@@ -2173,6 +2173,16 @@
   - gif
   - good
   - ice
+- title: github_pages_docs_tutorial.gif
+  category: github
+  path: github/github_pages_docs_tutorial.gif
+  modified_time: 1604131791
+  tags:
+  - docs
+  - gif
+  - github
+  - pages
+  - tutorial
 - title: opening_issue_tutorial.gif
   category: github
   path: github/opening_issue_tutorial.gif
