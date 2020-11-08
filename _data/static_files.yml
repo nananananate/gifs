@@ -1774,6 +1774,14 @@
   - fail
   - gif
   - kayak
+- title: ligma.jpg
+  category: fail
+  path: fail/ligma.jpg
+  modified_time: 1604818866
+  tags:
+  - fail
+  - jpg
+  - ligma
 - title: mascot-spill.gif
   category: fail
   path: fail/mascot-spill.gif
