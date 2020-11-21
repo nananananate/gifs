@@ -2228,6 +2228,25 @@
   - gif
   - graphql
   - playground
+- title: new_organization_demo.gif
+  category: grasshopperfund
+  path: grasshopperfund/new_organization_demo.gif
+  modified_time: 1605988723
+  tags:
+  - demo
+  - gif
+  - grasshopperfund
+  - new
+  - organization
+- title: posts_demo.gif
+  category: grasshopperfund
+  path: grasshopperfund/posts_demo.gif
+  modified_time: 1605988736
+  tags:
+  - demo
+  - gif
+  - grasshopperfund
+  - posts
 - title: get-the-eff-out.gif
   category: gtfo
   path: gtfo/get-the-eff-out.gif
