@@ -2201,6 +2201,16 @@
   - issue
   - opening
   - tutorial
+- title: ask-and-get-graphql.gif
+  category: graphql
+  path: graphql/ask-and-get-graphql.gif
+  modified_time: 1614845182
+  tags:
+  - and
+  - ask
+  - get
+  - gif
+  - graphql
 - title: graphql-get-many-resources.gif
   category: graphql
   path: graphql/graphql-get-many-resources.gif
@@ -2258,6 +2268,16 @@
   - gif
   - graphql
   - playground
+- title: the-graph-in-graphql.gif
+  category: graphql
+  path: graphql/the-graph-in-graphql.gif
+  modified_time: 1614845357
+  tags:
+  - gif
+  - graph
+  - graphql
+  - in
+  - the
 - title: new_organization_demo.gif
   category: grasshopperfund
   path: grasshopperfund/new_organization_demo.gif
