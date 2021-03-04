@@ -2201,6 +2201,36 @@
   - issue
   - opening
   - tutorial
+- title: graphql-get-many-resources.gif
+  category: graphql
+  path: graphql/graphql-get-many-resources.gif
+  modified_time: 1614754344
+  tags:
+  - get
+  - gif
+  - graphql
+  - many
+  - resources
+- title: graphql-get-what-you-need.gif
+  category: graphql
+  path: graphql/graphql-get-what-you-need.gif
+  modified_time: 1614754264
+  tags:
+  - get
+  - gif
+  - graphql
+  - need
+  - what
+  - you
+- title: graphql-type-system.gif
+  category: graphql
+  path: graphql/graphql-type-system.gif
+  modified_time: 1614754420
+  tags:
+  - gif
+  - graphql
+  - system
+  - type
 - title: graphqldocs_demo.gif
   category: graphql
   path: graphql/graphqldocs_demo.gif
